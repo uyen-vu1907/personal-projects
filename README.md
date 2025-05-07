@@ -1,4 +1,4 @@
-# Trang Web Danh Mục Cá Nhân
+# Personal Portfolio Website
 
 ## Describe
 This is my personal portfolio website, built to showcase my web development skills and projects. Currently the site is in its early stages of development and will be updated with new projects.
