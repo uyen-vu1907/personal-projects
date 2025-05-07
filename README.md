@@ -5,7 +5,7 @@ This is my personal portfolio website, built to showcase my web development skil
 ## Technologies used
 - **Languages**: HTML, CSS, JavaScript (expected)
 - **Tools**: Visual Studio Code, Git
-- **Khác**: MAMP (for local testing, if applicable)
+- **Other**: MAMP (for local testing, if applicable)
 
 ## Installation Instructions
 1. **Clone the repository**:
